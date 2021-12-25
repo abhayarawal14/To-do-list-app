@@ -1,0 +1,4 @@
+#Sat Dec 25 23:39:24 NPT 2021
+base.0=D\:\\DMA-Abhaya Rawal\\To-do-list-app\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
